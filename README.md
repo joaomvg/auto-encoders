@@ -1,4 +1,4 @@
 # AutoEncoders
-
-- LSTM autoencoder
-- CNN autoencoder
+ 
+- LSTM autoencoder:AnomalyDetection.ipynb
+- CNN autoencoder: CNNAutoencoder.ipynb
